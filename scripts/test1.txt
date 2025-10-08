@@ -1,0 +1,4 @@
+ls
+cd "My Documents"
+ls
+exit
